@@ -91,6 +91,11 @@ img{
 	font-weight: 600;
 	color: #3F5D45;
 }
+
+.header-list a:hover{
+	color: #22C142;
+}
+
 .header-list h2{
 	font-size: 24px;
 	text-align: center;
@@ -144,7 +149,8 @@ img{
 	border-right: 1px solid #EAF0ED;
 	border-left: 1px solid #EAF0ED;
 	border-bottom: 1px solid #EAF0ED;
-} 
+}
+
 .main-list a{
 	display:block;
 	font-size: 24px;
@@ -154,6 +160,11 @@ img{
 	padding-bottom: 20.5px;
 	color: #3F5D45;
 	font-weight: 600;
+}
+
+.main-list a:hover{
+	color:#22C142;
+
 }
 
 .main-list-h2-page1{
@@ -255,6 +266,9 @@ img{
 	padding-top: 20.5px;
 }
 
+.actionButton:hover{
+	color: #22C142;
+}
 
 .pageNumber{
 	display: flex;
@@ -282,6 +296,9 @@ img{
 	width: 60px;
 }
 
+.pageNumber a:hover{
+	color: #F751E1;
+}
 
 .pageNumberChoose{
 	background: #3F5D45;
